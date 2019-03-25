@@ -73,6 +73,12 @@ Readings will be drawn from the literature, and provided 5 days before each clas
 
 ## Academic integrity
 
+All sources must be fully cited in written work. This isn't just for attribution,
+it is so that your reader understands the foundations of your assertions and knows where
+to look for more information on a topic.
+
+All students are expected to complete the assigned readings in full before class.
+
 ## Schedule
 
 ### Week 1
