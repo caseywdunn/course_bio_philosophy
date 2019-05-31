@@ -6,6 +6,7 @@
 	Yale University, Fall 2019
 	E&EB 321
 	E&EB 621
+	HUMS tbd
 
 	Time: Tuesday 1:30-3:20
 	Location: TBD
@@ -44,11 +45,15 @@ Classes will consist of lectures, student led discussions, and project presentat
 
 The course grade for E&EB 321 will be based on the following:
 
-- 35% Midterm paper
-- 50% Final paper
+- 20% Responses to prompts
+- 25% Midterm paper
+- 40% Final paper
 - 15% Class participation
 
-The midterm paper will be 4-6 pages, with the focus on describing multiple perspectives on a previously addressed problem in the Philosophy of Biology. The final paper will be 8-10 pages, and will provide a synthesis and novel approach to a different problem. An abstract will be submitted two weeks before the deadline for each.
+There will be 2 prompts for questions throughout the course. The response is to be
+400-500 words, excluding citations.
+
+The midterm paper will be 6-8 pages, with the focus on describing multiple perspectives on a previously addressed problem in the Philosophy of Biology. The final paper will be 10-12 pages, and will provide a synthesis and novel approach to a different problem. An abstract will be submitted two weeks before the deadline for each.
 
 The papers are to be double spaced 12 point font. They must be fully cited (references do not count toward the page limit).
 
@@ -64,7 +69,7 @@ The presentation will be 30 minutes (including questions) on a topic relevant to
 research. It will be in the last class, or in the preceding two weeks depending on enrollment.
 
 There will be 4 prompts for questions throughout the course. The response is to be
-250-500 words, excluding citations.
+400-500 words, excluding citations.
 
 
 
@@ -93,57 +98,61 @@ to look for more information on a topic.
 
 ## Schedule
 
-### Week 1
+### Week 1 - September 3
 
 Why does biology need philosophy?
 
-### Week 2
+#### Readings
+- Laplane L, Mantovani P, Adolphs R, Chang H, Mantovani A, McFall-Ngai M, Rovelli C, Sober E, Pradeu T: Opinion: Why science needs philosophy. Proc. Natl. Acad. Sci. 2019, 116:3948–3952. http://dx.doi.org/10.1073/pnas.1900357116
+
+### Week 2 - September 10
 
 The relationship between science and philosophy
 
-### Week 3
+### Week 3 - September 17
 
 Key concepts in philosophy
 
-### Week 4
+### Week 4 - September 24
 
 Visit to the Beinecke Library
 
-### Week 5
+### Week 5 - October 1
 
 Survey of philosophy in biology
 
-### Week 6
+### Week 6 - October 8
 
 Survey of philosophy in biology
 
-### Week 7
+### Week 7 - October 22
+
+E&EB 321 Midterm paper due
 
 How do we know what we know?
 
-### Week 8
+### Week 8 - October 29
 
 Ontology
 
-### Week 9
+### Week 9 - November 5
 
 Types
 
-### Week 10
+### Week 10 - November 12
 
 Unit entities versus process ontology
 
-### Week 11
+### Week 11 - November 19
 
 Homology
 
-### Week 12
+### Week 12 - December 3
+
+E&EB 321 Final paper due
 
 Future directions
 
-### Week 13
-
-Final presentations
 
 
 ## Bibliography
