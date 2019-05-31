@@ -163,6 +163,8 @@ Bueno et al. 2018. Individuation, Process, and Scientific Practices. Oxford. htt
 
 Cartwright. 1983. How the laws of physics lie. Oxford.
 
+Godfrey-Smith, Peter. 2013. Philosophy of Biology (Princeton Foundations of Contemporary Philosophy Book 8). Princeton University Press. https://press.princeton.edu/titles/10273.html
+
 Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. https://global.oup.com/academic/product/everything-flows-9780198779636?cc=us&lang=en&
 
 Sterelny and Griffiths. 1999. Sex and Death. University of Chicago Press. https://www.press.uchicago.edu/ucp/books/book/chicago/S/bo3638489.html *An introduction to the philosophy of biology*
