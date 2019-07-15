@@ -19,7 +19,7 @@
 This course is an introduction to the Philosophy of Biology, with application to
 specific current problems.
 
-It will focus on two major strands of thinking seeking answers to two fundamental and to some extend complementary questions: “How do we know?” [epistemology] and “What things really exist in the world?” [ontology]. These two themes have the most important impact on the practice of science, as they pertain to the nature of the scientific enterprise and how it works [epistemology and philosophy of science], as well as what scientists consider part of reality [=science related ontology: unicorns and phlogiston NO; atoms, electrons, YES; but what about species and genes? Do they have the same status as atoms?]. In each of these fields of philosophy we will outline the main positions and then discuss how they apply to past and current debates in biology, in particular, but not exclusively, evolutionary biology.
+It will focus on two major strands of thinking seeking answers to two fundamental and to some extend complementary questions: “How do we know?” (epistemology) and “What things really exist in the world?” (ontology). These two themes have the most important impact on the practice of science, as they pertain to the nature of the scientific enterprise and how it works [epistemology and philosophy of science], as well as what scientists consider part of reality. In each of these fields of philosophy we will outline the main positions and then discuss how they apply to past and current debates in biology, in particular, but not exclusively, evolutionary biology.
 
 
 ## Prerequisites
@@ -75,8 +75,13 @@ There will be 4 prompts for questions throughout the course. The response is to 
 
 ## Readings
 
-Readings will be drawn from the literature, and provided 5 days before each class. See the bibliography below
-for example sources.
+Most readings will come from:
+
+    Peter Godfrey-Smith. 2013. Philosophy of Biology. Princeton University Press. ISBN:978-0691174679
+
+This text is abbreviated as PGS in the schedule below.
+
+Additional readings will be drawn from the literature, and provided 5 days before each class.
 
 ## Academic integrity
 
@@ -94,64 +99,67 @@ to look for more information on a topic.
 - Do not submit or reuse material from the same paper in multiple courses unless both instructors provide written permission to do so.
 
 
-
-
 ## Schedule
 
-### Week 1 - September 3
-
-Why does biology need philosophy?
+### Week 1 - September 3. How can philosophy help advance biology?
 
 #### Readings
+
 - Laplane L, Mantovani P, Adolphs R, Chang H, Mantovani A, McFall-Ngai M, Rovelli C, Sober E, Pradeu T: Opinion: Why science needs philosophy. Proc. Natl. Acad. Sci. 2019, 116:3948–3952. http://dx.doi.org/10.1073/pnas.1900357116
 
-### Week 2 - September 10
+- PGS Chapter 1
 
-The relationship between science and philosophy
 
-### Week 3 - September 17
 
-Key concepts in philosophy
+### Week 2 - September 10. The relationship between philosophy and biology
 
-### Week 4 - September 24
+#### Readings
 
-Visit to the Beinecke Library
+- PGS Chapter 2
 
-### Week 5 - October 1
+### Week 3 - September 17. Ontology
 
-Survey of philosophy in biology
+#### Readings
 
-### Week 6 - October 8
+- Introduction from: Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. https://global.oup.com/academic/product/everything-flows-9780198779636?cc=us&lang=en&
 
-Survey of philosophy in biology
+### Week 4 - September 24. Evolution, Natural Selection, Adaptation, and Function
+Reading - PGS Chapters 3, 4
 
-### Week 7 - October 22
+### Week 5 - October 1. Individuals
+#### Readings
 
-E&EB 321 Midterm paper due
+- PGS Chapter 5
 
-How do we know what we know?
+### Week 6 - October 8. Genes
+#### Readings
 
-### Week 8 - October 29
+- PGS Chapter 6
 
-Ontology
+### Week 7 - October 22. Species
+#### Readings
 
-### Week 9 - November 5
+- PGS Chapter 7
 
-Types
+### Week 8 - October 29. Cell types
+#### Readings
 
-### Week 10 - November 12
+### Week 9 - November 5. Information
+#### Readings
 
-Unit entities versus process ontology
+- PGS Chapter 9
 
-### Week 11 - November 19
+### Week 10 - November 12. Homology
+#### Readings
 
-Homology
+### Week 11 - November 19. Scale
+#### Readings
 
-### Week 12 - December 3
+
+### Week 12 - December 3. Recap and future directions
 
 E&EB 321 Final paper due
 
-Future directions
 
 
 
