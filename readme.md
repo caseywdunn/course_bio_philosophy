@@ -9,15 +9,14 @@
 	HUMS tbd
 
 	Time: Tuesday 1:30-3:20
-	Location: TBD
+	Location: OML 551
 
 	Instructors: Casey Dunn, Gunter Wagner
 
-	Office hours: TBD
+	Office hours: Casey Dunn Tuesday 3:30-5:00 pm; Gunter Wagner TBD
 
 
-This course is an introduction to the Philosophy of Biology, with application to
-specific current problems.
+This course is an introduction to the Philosophy of Biology, with application to specific current problems.
 
 It will focus on two major strands of thinking seeking answers to two fundamental and to some extend complementary questions: “How do we know?” (epistemology) and “What things really exist in the world?” (ontology). These two themes have the most important impact on the practice of science, as they pertain to the nature of the scientific enterprise and how it works [epistemology and philosophy of science], as well as what scientists consider part of reality. In each of these fields of philosophy we will outline the main positions and then discuss how they apply to past and current debates in biology, in particular, but not exclusively, evolutionary biology.
 
@@ -77,11 +76,11 @@ There will be 4 prompts for questions throughout the course. The response is to 
 
 Most readings will come from:
 
-    Peter Godfrey-Smith. 2013. Philosophy of Biology. Princeton University Press. ISBN:978-0691174679
+> Peter Godfrey-Smith. 2013. Philosophy of Biology. Princeton University Press. ISBN:978-0691174679
 
-This text is abbreviated as PGS in the schedule below.
+This required text is abbreviated as PGS in the schedule below.
 
-Additional readings will be drawn from the literature, and provided 5 days before each class.
+Additional readings will be drawn from the literature, and provided at least 5 days before each class.
 
 ## Academic integrity
 
@@ -107,15 +106,15 @@ to look for more information on a topic.
 
 - Laplane L, Mantovani P, Adolphs R, Chang H, Mantovani A, McFall-Ngai M, Rovelli C, Sober E, Pradeu T: Opinion: Why science needs philosophy. Proc. Natl. Acad. Sci. 2019, 116:3948–3952. http://dx.doi.org/10.1073/pnas.1900357116
 
-- PGS Chapter 1
+- PGS Chapters 1-2
 
 
 
-### Week 2 - September 10. The relationship between philosophy and biology
+### Week 2 - September 10. Causality
 
 #### Readings
 
-- PGS Chapter 2
+- Chapter 2 from: Pearl, Judea. 2009. Causality: Models, Reasoning and Inference (2nd Edition). Cambridge University Press. http://search.library.yale.edu/catalog/12582524
 
 ### Week 3 - September 17. Ontology
 
@@ -124,7 +123,9 @@ to look for more information on a topic.
 - Introduction from: Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. https://global.oup.com/academic/product/everything-flows-9780198779636?cc=us&lang=en&
 
 ### Week 4 - September 24. Evolution, Natural Selection, Adaptation, and Function
-Reading - PGS Chapters 3, 4
+#### Reading
+
+- PGS Chapters 3, 4
 
 ### Week 5 - October 1. Individuals
 #### Readings
@@ -173,6 +174,9 @@ Cartwright. 1983. How the laws of physics lie. Oxford.
 
 Godfrey-Smith, Peter. 2013. Philosophy of Biology (Princeton Foundations of Contemporary Philosophy Book 8). Princeton University Press. https://press.princeton.edu/titles/10273.html
 
-Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. https://global.oup.com/academic/product/everything-flows-9780198779636?cc=us&lang=en&
+Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. http://search.library.yale.edu/catalog/13672921
+
+Pearl, Judea. 2009. Causality: Models, Reasoning and Inference (2nd Edition). Cambridge University Press.
+http://search.library.yale.edu/catalog/12582524
 
 Sterelny and Griffiths. 1999. Sex and Death. University of Chicago Press. https://www.press.uchicago.edu/ucp/books/book/chicago/S/bo3638489.html *An introduction to the philosophy of biology*
