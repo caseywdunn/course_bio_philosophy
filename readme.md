@@ -9,7 +9,7 @@
 	HUMS tbd
 
 	Time: Tuesday 1:30-3:20
-	Location: OML 551
+	Location: OML 201
 
 	Instructors: Casey Dunn, Gunter Wagner
 
@@ -29,6 +29,13 @@ not assume a background in philosophy.
 The prerequisites for E&EB 321 are either a semester of biology or a semester of philosophy.
 
 There are no prerequisites for E&EB 621.
+
+## Criteria for admitting students
+
+If interest in the course exceeds capacity for productive and participatory discussion,
+the enrollment of this course will be limited. Please check Canvas for an assigned
+question that must be submitted by the end of the day of the first class. We will
+use your answers to this question to make enrollment decisions.
 
 ## Course site
 
@@ -76,7 +83,7 @@ There will be 4 prompts for questions throughout the course. The response is to 
 
 Most readings will come from:
 
-> Peter Godfrey-Smith. 2013. Philosophy of Biology. Princeton University Press. ISBN:978-0691174679
+> Peter Godfrey-Smith. 2013. Philosophy of Biology. Princeton University Press. ISBN:978-0691174679. Link from Yale Library to digital edition: https://muse.jhu.edu/book/36379/
 
 This required text is abbreviated as PGS in the schedule below.
 
@@ -114,7 +121,9 @@ to look for more information on a topic.
 
 #### Readings
 
-- Chapter 2 from: Pearl, Judea. 2009. Causality: Models, Reasoning and Inference (2nd Edition). Cambridge University Press. http://search.library.yale.edu/catalog/12582524
+
+- Pearl, J. (2002). Reasoning with Cause and Effect. AI Magazine, 23(1), 95. https://doi.org/10.1609/aimag.v23i1.1612
+
 
 ### Week 3 - September 17. Ontology
 
@@ -172,7 +181,7 @@ Bueno et al. 2018. Individuation, Process, and Scientific Practices. Oxford. htt
 
 Cartwright. 1983. How the laws of physics lie. Oxford.
 
-Godfrey-Smith, Peter. 2013. Philosophy of Biology (Princeton Foundations of Contemporary Philosophy Book 8). Princeton University Press. https://press.princeton.edu/titles/10273.html
+Godfrey-Smith, Peter. 2013. Philosophy of Biology (Princeton Foundations of Contemporary Philosophy Book 8). Princeton University Press. https://press.princeton.edu/titles/10273.html, https://muse.jhu.edu/book/36379/
 
 Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. http://search.library.yale.edu/catalog/13672921
 
