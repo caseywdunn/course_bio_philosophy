@@ -69,9 +69,9 @@ The assignments and evaluation for E&EB 621 will be as follows:
 
 - 35% Class presentation
 - 40% Responses to prompts
-- 25% Class participation
+- 25% Presentation
 
-The presentation will be 30 minutes (including questions) on a topic relevant to the graduate student's
+The presentation will be 20 minutes (including questions) on a topic relevant to the graduate student's
 research. It will be in the last class, or in the preceding two weeks depending on enrollment.
 
 There will be 4 prompts for questions throughout the course. The response is to be
