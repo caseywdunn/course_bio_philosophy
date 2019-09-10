@@ -39,7 +39,12 @@ use your answers to this question to make enrollment decisions.
 
 ## Course site
 
-All materials for the course, including the syllabus, are available at the [course site](https://github.com/caseywdunn/course_bio_philosophy). Please submit suggestions and corrections for the class via the [issue tracker](https://github.com/caseywdunn/course_bio_philosophy/issues).
+There are two sites relevant to the course:
+
+ - The Canvas site is where we post the syllabus and readings, post assignments, and post
+ course communications.
+
+  - The [github respository](https://github.com/caseywdunn/course_bio_philosophy) is where we edit the syllabus. This is also a way to publicly share the course contents. Please submit suggestions and corrections for the class via the [issue tracker](https://github.com/caseywdunn/course_bio_philosophy/issues).
 
 ## Course format
 
