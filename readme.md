@@ -134,7 +134,10 @@ to look for more information on a topic.
 
 #### Readings
 
-- Introduction from: Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. https://global.oup.com/academic/product/everything-flows-9780198779636?cc=us&lang=en&
+- The Wikipedia article on ontology - https://en.wikipedia.org/wiki/Ontology
+
+- Chapter 1 (A Manifesto for a Processual Philosophy of Biology) from: Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. https://www.oxfordscholarship.com/view/10.1093/oso/9780198779636.001.0001/oso-9780198779636-chapter-1
+
 
 ### Week 4 - September 24. Evolution, Natural Selection, Adaptation, and Function
 #### Reading
