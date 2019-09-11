@@ -136,7 +136,7 @@ to look for more information on a topic.
 
 - The Wikipedia article on ontology - https://en.wikipedia.org/wiki/Ontology
 
-- Chapter 1 (A Manifesto for a Processual Philosophy of Biology) from: Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. https://www.oxfordscholarship.com/view/10.1093/oso/9780198779636.001.0001/oso-9780198779636-chapter-1
+- Chapter 1 (A Manifesto for a Processual Philosophy of Biology) from: Nicholson and Dupre. 2018. Everything Flows: Towards a Processual Philosophy of Biology. Oxford. [doi:10.1093/oso/9780198779636.003.0001](https://dx.doi.org/10.1093/oso/9780198779636.003.0001)
 
 
 ### Week 4 - September 24. Evolution, Natural Selection, Adaptation, and Function
