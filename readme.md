@@ -160,7 +160,8 @@ Response due for prompt on causation (E&EB 621): Discuss how the concept of caus
 
 #### Assignment
 
-Response due for prompt on natural selection (E&EB 321 and E&EB 621): TBD
+Response due for prompt on natural selection (E&EB 321 and E&EB 621): Why has the concept of fitness
+been so challenging for biologists, and how can philosophy help address the challenge?
 
 
 ### Week 7 - October 22. Species
@@ -171,15 +172,21 @@ Gunter away
 
 - PGS Chapter 7
 
+#### Assignment
+
 E&EB 321 Midterm paper due
 
 ### Week 8 - October 29. Cell types
 #### Readings
 
+Arendt, D., Musser, J. M., Baker, C. V. H., Bergman, A., Cepko, C., Erwin, D. H., et al. (2016). The origin and evolution of cell types. Nature Reviews Genetics, 17(12), 1–14. http://doi.org/10.1038/nrg.2016.127
+
 ### Week 9 - November 5. Homology
 #### Readings
 
-- PGS Chapter 9
+- Ghiselin, M. T. (2005). Homology as a relation of correspondence between parts of individuals. Theory in Biosciences = Theorie in Den Biowissenschaften, 124(2), 91–103. http://doi.org/10.1007/BF02814478
+
+- Wagner, G. P. (2007). The developmental genetics of homology. Nature Reviews Genetics, 8(6), 473–479. http://doi.org/10.1038/nrg2099
 
 #### Assignment
 
@@ -187,20 +194,27 @@ Response due for prompt on cell types (E&EB 621): What do you think of the ontol
 
 ### Week 10 - November 12. Information
 
-Gunter away
-
 #### Readings
+
+- PGS Chapter 9
 
 ### Week 11 - November 19. Scale
 #### Readings
 
+- Jablonski, D. (2007). Scale and hierarchy in macroevolution. Palaeontology, 50(1), 87–109. http://doi.org/10.1111/j.1475-4983.2006.00615.x
+
+- Dietrich, M. Chapter 9: Microevolution and Macroevolution Are Governed by the Same Processes. in: Ayala, F. J., & Arp, R. (Eds.). (2009). Contemporary Debates in Philosophy of Biology. Oxford, UK: Wiley-Blackwell. http://doi.org/10.1002/9781444314922 . (also in canvas)
+
+- Erwin, DH. Chapter 10: Microevolution and Macroevolution Are Not Governed by the Same Processes. in: Ayala, F. J., & Arp, R. (Eds.). (2009). Contemporary Debates in Philosophy of Biology. Oxford, UK: Wiley-Blackwell. http://doi.org/10.1002/9781444314922 . (also in canvas)
 
 #### Assignment
 
-Response due for prompt on homology (E&EB 321 and E&EB 621): How can a process ontology enlighten the ontological status?
+Response due for prompt on homology (E&EB 321 and E&EB 621): How can a process ontology enlighten the ontological status of homologous elements?
 
 
 ### Week 12 - December 3. Recap and future directions
+
+#### Assignment
 
 E&EB 321 Final paper due
 
