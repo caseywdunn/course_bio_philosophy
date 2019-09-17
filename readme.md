@@ -144,6 +144,10 @@ to look for more information on a topic.
 
 - PGS Chapters 3, 4
 
+#### Assignment
+
+Response due for prompt on causation (E&EB 621): Discuss how the concept of causality may be helpful or misleading in biological research, with reference to at least one specific topic.
+
 ### Week 5 - October 1. Individuals
 #### Readings
 
@@ -154,24 +158,46 @@ to look for more information on a topic.
 
 - PGS Chapter 6
 
+#### Assignment
+
+Response due for prompt on natural selection (E&EB 321 and E&EB 621): TBD
+
+
 ### Week 7 - October 22. Species
+
+Gunter away
+
 #### Readings
 
 - PGS Chapter 7
 
+E&EB 321 Midterm paper due
+
 ### Week 8 - October 29. Cell types
 #### Readings
 
-### Week 9 - November 5. Information
+### Week 9 - November 5. Homology
 #### Readings
 
 - PGS Chapter 9
 
-### Week 10 - November 12. Homology
+#### Assignment
+
+Response due for prompt on cell types (E&EB 621): What do you think of the ontological status of cell types? Does it fit into a process ontology?
+
+### Week 10 - November 12. Information
+
+Gunter away
+
 #### Readings
 
 ### Week 11 - November 19. Scale
 #### Readings
+
+
+#### Assignment
+
+Response due for prompt on homology (E&EB 321 and E&EB 621): How can a process ontology enlighten the ontological status?
 
 
 ### Week 12 - December 3. Recap and future directions
