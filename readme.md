@@ -61,8 +61,7 @@ The course grade for E&EB 321 will be based on the following:
 - 40% Final paper
 - 15% Class participation
 
-There will be 2 prompts for questions throughout the course. The response is to be
-400-500 words, excluding citations.
+There will be 2 prompts for questions throughout the course. See details below about responding to these prompts.
 
 The midterm paper will be 6-8 pages, with the focus on describing multiple perspectives on a previously addressed problem in the Philosophy of Biology. The final paper will be 10-12 pages, and will provide a synthesis and novel approach to a different problem. An abstract will be submitted two weeks before the deadline for each.
 
@@ -79,9 +78,20 @@ The assignments and evaluation for E&EB 621 will be as follows:
 The presentation will be 20 minutes (including questions) on a topic relevant to the graduate student's
 research. It will be in the last class, or in the preceding two weeks depending on enrollment.
 
-There will be 4 prompts for questions throughout the course. The response is to be
-400-500 words, excluding citations.
+There will be 4 prompts for questions throughout the course. See details below about responding to these prompts.
 
+### Response to prompts
+
+Place your name and the text of the prompt at the top of your submission.
+Your response is to be 400-500 words, excluding citations.
+Stay within this range - part of the challenge is to be concise.
+
+Please keep the following in mind as you write your response:
+
+- These are short, so they should have a sharp point - get right to the meat of the issue and address it as directly as possible. Do not have long expository intros (eg causality is…) that chew into the space available to address the specifics of the prompt.
+- Be sure to read the prompt closely before writing, then after you have written revisit the prompt to confirm that your text addresses it as directly as possible.
+- Address the prompt as directly as possible. Prompts may be multi-part, so you need to make sure you are addressing each component of what is being asked for. Stay focused on the request of the prompt. For example, if the question is about how causality can be misleading in the study of biology, don't focus on how the inference of causality can be misled.
+- Do use citations. They help make the biology specific and concrete, and they connect the philosophical perspectives to ideas in the philosophical literature.
 
 
 ## Readings
